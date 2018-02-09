@@ -1,2 +1,5 @@
 .DS_Store
-MarcelTest/
+.cproject
+.project
+.settings
+tests/build
